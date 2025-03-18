@@ -1,4 +1,4 @@
-# Walmart-Customer-Purchased-Analysisased
+# Walmart-Customer-Purchased-Analysis
 
 ## Business Problem
 The management team at Walmart Inc. aims to analyze customer purchase behavior, specifically the purchase amount, against customer gender and various other factors. The primary focus is on understanding if spending habits differ between male and female customers during Black Friday. With an assumption of 50 million male and 50 million female customers, the goal is to provide insights that can aid in making informed business decisions.
